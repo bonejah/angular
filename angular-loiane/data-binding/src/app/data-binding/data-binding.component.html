@@ -14,8 +14,7 @@
     <img [src]="urlImagem"/> 
     <img bind-src ="urlImagem"/> 
   </article> 
-  -->
-
+  
   <article>
     <h3>Class e Style Binding</h3>
     <div> 
@@ -48,8 +47,30 @@
         Alerta</div>
       <div class="alert" role="alert"
         [class.alert-danger]="classe.value == 'alert-danger'">
-        Erro</div>
+         Erro</div>
     </div> 
-  </article>
+  </article>-->
+
+  <article>
+    <h3>Event binding</h3>
+    <div>
+      <button on-click="botaoClicado()" class="btn btn-primary">Clique-me</button>
+      <br><br>
+      <input type="text" 
+        (keyup)="onKeyup($event)" 
+        (keyup.enter)="salvarValor(campoInput.value)" 
+        (blur)="salvarValor(campoInput.value)"
+        #campoInput />
+      <p>Valor atual {{ valorAtual }}</p>
+      <p>Valor salvo {{ valorSalvo }}</p>
+
+      <span 
+      (mouseover)="onMouseOverOut()"
+      (mouseout)="onMouseOverOut()"
+      [class.highlight]="isMouseOver"
+      >
+        Passe o mouse sobre mim</span>
+    </div> 
+  </article>  
 </section>
  
