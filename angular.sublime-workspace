@@ -4,457 +4,34 @@
 		"selected_items":
 		[
 			[
-				"compone",
-				"Component\tReact"
+				"Hero",
+				"HeroService"
 			],
 			[
-				"componen",
-				"componentDidMount\t Life Cycle"
+				"her",
+				"HeroDetailComponent"
 			],
 			[
-				"compon",
-				"componentDidMount\t Life Cycle"
+				"selec",
+				"selectedHero"
 			],
 			[
-				"compo",
-				"componentWillMount\t Life Cycle"
-			],
-			[
-				"fun",
-				"function"
-			],
-			[
-				"item",
-				"item-total"
-			],
-			[
-				"quan",
-				"quantidadeDeItens"
-			],
-			[
-				"quantidade",
-				"quantidade-de-itens"
-			],
-			[
-				"atualiza",
-				"atualizaTempoInicial"
-			],
-			[
-				"tex",
-				"text"
-			],
-			[
-				"frase",
-				"fraseId"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"borda-ver",
-				"borda-vermelha"
-			],
-			[
-				"iniciali",
-				"inicializaMarcadores"
-			],
-			[
-				"tes",
-				"text-align-last"
-			],
-			[
-				"back",
-				"background-color"
-			],
-			[
-				"inicializa",
-				"inicializaCronometro"
-			],
-			[
-				"qtd",
-				"qtdCaracteres"
-			],
-			[
-				"adi",
-				"adicionaPacienteNaTabela"
-			],
-			[
-				"invá",
-				"inválido"
-			],
-			[
-				"mensagem",
-				"mensagemErro"
-			],
-			[
-				"altura",
-				"alturaEhValido"
-			],
-			[
-				"pacien",
-				"paciente"
-			],
-			[
-				"paciente",
-				"pacienteTr"
-			],
-			[
-				"cons",
-				"console.log"
-			],
-			[
-				"paci",
-				"pacienteTr"
-			],
-			[
-				"gordura",
-				"gorduraTd"
-			],
-			[
-				"crea",
-				"createElement()\tReact"
-			],
-			[
-				"bac",
-				"background-color"
-			],
-			[
-				"altur",
-				"alturaEhValido"
-			],
-			[
-				"con",
-				"console.log"
-			],
-			[
-				"pro",
-				"produto_params"
-			],
-			[
-				"des",
-				"destroy"
-			],
-			[
-				"up",
-				"update"
-			],
-			[
-				"busca",
-				"busca_produto"
-			],
-			[
-				"bu",
-				"busca_privado"
-			],
-			[
-				"rende",
-				"renderiza_new"
-			],
-			[
-				"nome",
-				"nome_a_buscar"
-			],
-			[
-				"sub",
-				"submit"
-			],
-			[
-				"ac",
-				"action\tAttr"
-			],
-			[
-				"st",
-				"step\tAttr"
-			],
-			[
-				"in",
-				"input\tTag"
-			],
-			[
-				"te",
-				"textarea\tTag"
-			],
-			[
-				"th",
-				"thead\tTag"
-			],
-			[
-				"ti",
-				"titulo"
-			],
-			[
-				"po",
-				"possui_reimpressao"
-			],
-			[
-				"n",
-				"numero"
-			],
-			[
-				"poss",
-				"possui_sobrecapa"
-			],
-			[
-				"ebook",
-				"ebook_que_mais_vendeu_por_titulo"
-			],
-			[
-				"ma",
-				"matcher"
-			],
-			[
-				"re",
-				"revista1"
-			],
-			[
-				"rev",
-				"revista_que_mais_vendeu_por"
-			],
-			[
-				"revista",
-				"revista1"
-			],
-			[
-				"li",
-				"livro"
-			],
-			[
-				"livro",
-				"livros_computacao"
-			],
-			[
-				"se",
-				"self"
-			],
-			[
-				"Programm",
-				"Programming"
-			],
-			[
-				"livr",
-				"livros"
-			],
-			[
-				"liv",
-				"livros"
-			],
-			[
-				"to",
-				"to_csv"
-			],
-			[
-				"de",
-				"def\tdef … end"
-			],
-			[
-				"t",
-				"titulo"
-			],
-			[
-				"att",
-				"attr_reader"
-			],
-			[
-				"tr",
-				"true"
-			],
-			[
-				"al",
-				"algoritmos"
-			],
-			[
-				"an",
-				"ano_lancamento"
-			],
-			[
-				"coluna",
-				"coluna"
-			],
-			[
-				"pos",
-				"posicao"
-			],
-			[
-				"ca",
-				"calcula_nova_posicao"
-			],
-			[
-				"remov",
-				"remove_do"
-			],
-			[
-				"posi",
-				"posicao"
-			],
-			[
-				"mi",
-				"minhafuncao"
-			],
-			[
-				"col",
-				"coluna_do_heroi"
-			],
-			[
-				"no",
-				"novo_mapa"
-			],
-			[
-				"vetor",
-				"vetor1"
-			],
-			[
-				"vet",
-				"vetor2"
-			],
-			[
-				"poos",
-				"posicao_valida"
-			],
-			[
-				"posica",
-				"posicao_valida"
-			],
-			[
-				"nova",
-				"nova_posicao"
-			],
-			[
-				"mo",
-				"movimentos"
-			],
-			[
-				"movimento",
-				"movimentos"
-			],
-			[
-				"nov",
-				"nova_linha"
-			],
-			[
-				"cara",
-				"caractere"
-			],
-			[
-				"eac",
-				"each"
-			],
-			[
-				"posic",
-				"posicao"
-			],
-			[
-				"linh",
-				"linha"
-			],
-			[
-				"colu",
-				"coluna"
-			],
-			[
-				"mov",
-				"movimento"
-			],
-			[
-				"es",
-				"estorou_colunas"
-			],
-			[
-				"si",
-				"size"
-			],
-			[
-				"en",
-				"encontra_jogador"
-			],
-			[
-				"linha",
-				"linha_atual"
-			],
-			[
-				"atua",
-				"atualizaTelaDeVolta"
-			],
-			[
-				"fill",
-				"fillStyle"
-			],
-			[
-				"co",
-				"circulo"
-			],
-			[
-				"dese",
-				"desenhaFlor"
-			],
-			[
-				"p",
-				"pincel"
-			],
-			[
-				"met",
-				"meta\tTag"
-			],
-			[
-				"read",
-				"read_hank"
-			],
-			[
-				"tot",
-				"total_points"
-			],
-			[
-				"ch",
-				"chosen_numer"
-			],
-			[
-				"all",
-				"all_the_words"
-			],
-			[
-				"mas",
-				"masked_word"
-			],
-			[
-				"ki",
-				"kicks"
-			],
-			[
-				"kick",
-				"Kicks"
-			],
-			[
-				"so",
-				"sought_letter"
-			],
-			[
-				"pont",
-				"points_until_now"
-			],
-			[
-				"kic",
-				"kick"
-			],
-			[
-				"secret",
-				"secret_word"
-			],
-			[
-				"secre",
-				"secret_word"
-			],
-			[
-				"nam",
-				"name"
-			],
-			[
-				"nu",
-				"numero_secreto"
+				"sel",
+				"selectedHero"
 			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "my-firstapp/README.md",
+			"settings":
+			{
+				"buffer_size": 1268,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -463,24 +40,48 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 367.0,
-		"last_filter": "Package Control: ",
+		"height": 104.0,
+		"last_filter": "Package Control: instal",
 		"selected_items":
 		[
 			[
-				"Package Control: ",
-				"Package Control: Create Package File"
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"ins",
-				"Install Package Control"
+				"prv",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
 			]
 		],
-		"width": 530.0
+		"width": 472.0
 	},
 	"console":
 	{
@@ -500,138 +101,120 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/brunolima/Developer/Git/angular"
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/toh-pt5"
 	],
 	"file_history":
 	[
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/README.MD",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/Autor.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/Livro.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/index.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/App.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/componentes/inputCustomizado.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/Home.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/TratadorErros.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/node_modules/react-router/es/Router.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/package.json",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/src/componentes/botaoSubmitCustomizado.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/public/index.html",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React/cdc-admin/node_modules/webpack-dev-server/client/index.bundle.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/Regex/regex/README.MD",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Infra/MYSQL/README.MD",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/jquery-parte2-manipulacao-de-conteudo-dinamico-master/jquery/index.html",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/jquery-parte2-manipulacao-de-conteudo-dinamico-master/jquery/js/carrinho.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/jquery-parte2-manipulacao-de-conteudo-dinamico-master/jquery/css/carrinho.css",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/jquery-parte2-manipulacao-de-conteudo-dinamico-master/jquery-final-apos-exercicios/carrinho.css",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/jquery-parte2-manipulacao-de-conteudo-dinamico-master/jquery/carrinho.css",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/principal.html",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/index.html",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/slider.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/css/index.css",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/css/estilos.css",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/frase.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer-servidor-cors/servidor/config/express.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/placar.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/main.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Ruby/lojadecamisetas/README.md",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/introducao-javascript/index.html",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/introducao-javascript/js/buscar-pacientes.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/introducao-javascript/js/form.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/introducao-javascript/js/filtra.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/introducao-javascript/css/index.css",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/introducao-javascript/js/remover-paciente.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/introducao-javascript/js/calcula-imc.js",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/javascript-avancado-i-aula1/aluraframe/README.MD",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Infra/ComandosMYSQL.txt",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Infra/Comandos Linux",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/README.md",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/config/routes.rb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/controllers/produtos_controller.rb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/_form.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/new.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/_produto.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/edit.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/busca.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/index.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/models/produto.rb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/README.md",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/db/migrate/20170728195957_add_departamento_id_to_produto.rb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/layouts/application.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/config/application.rb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/Gemfile",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/create.html.erb",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/assets/stylesheets/application.css",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/produtos/index.html",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/app/views/index.html",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/lojadecamisetas/README.md",
-		"/Users/brunolima/Developer/Ruby/lojadecamisetas/lojadecamisetas/Gemfile",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/curso-git/README.md",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Curso de Logica II/README.MD",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Curso de Logica I/README.MD",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/README.md",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/projetoHtml5/README.md",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/README.MD",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/AngularJS/README.md",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Bootstrap3/README.MD",
-		"/Users/brunolima/Developer/Ruby/CurseRubyII/README.MD",
-		"/Users/brunolima/Developer/Ruby/ooruby/README.md",
-		"/Users/brunolima/Developer/Ruby/ooruby/sistema.rb",
-		"/Users/brunolima/Developer/Ruby/ooruby/livro.rb",
-		"/Users/brunolima/Developer/Ruby/ooruby/revista.rb",
-		"/Users/brunolima/Developer/Ruby/ooruby/produto.rb",
-		"/Users/brunolima/Developer/Ruby/ooruby/ebook.rb",
-		"/Users/brunolima/Developer/Ruby/ooruby/impresso.rb",
-		"/Users/brunolima/Developer/Ruby/ooruby/estoque.rb",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Curso de Logica II/circulo.html",
-		"/Users/brunolima/Developer/Ruby/ooruby/contador.rb",
-		"/Users/brunolima/Developer/Ruby/ooruby/conversor_monetario.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyI/bigger_or_smaller.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/untitled",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/heroi.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/ui.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/pacman.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/mapa4.txt",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/mapa3.txt",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/lambda_teste.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyI/README.MD",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/main.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/mapa1.txt",
-		"/Users/brunolima/Developer/Ruby/CurseRubyIII/mapa2.txt",
-		"/Users/brunolima/Developer/Ruby/CurseRubyII/forca.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyII/rank.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyII/ui.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyII/main.rb",
-		"/Users/brunolima/Developer/Ruby/CurseRubyII/rank.txt",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/ComandosMYSQL.txt",
-		"/Users/brunolima/Developer/Git/ProjetosAlura/Comandos Linux",
-		"/Users/brunolima/Developer/myProjectsStudy.sublime-workspace",
-		"/Users/brunolima/Developer/ComandosMAC.pages",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/assets/javascripts/components/featured_post/create_annotation.js.jsx",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/controllers/comments_controller.rb",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/controllers/annotations_controller.rb",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/models/highlight.rb",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/controllers/application_controller.rb",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/models/user.rb",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/controllers/concerns/.keep",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/models/slack_team.rb",
-		"/Users/brunolima/Developer/Pintellect/pintellect-extension/popup.js",
-		"/Users/brunolima/Developer/Pintellect/pintellect/lib/slack_bot_server/server.rb",
-		"/Users/brunolima/Developer/Pintellect/pintellect/Gemfile",
-		"/Users/brunolima/Developer/Pintellect/pintellect/Gemfile.lock",
-		"/Users/brunolima/Developer/Pintellect/pintellect/.env",
-		"/Users/brunolima/Developer/Pintellect/pintellect/config/secrets.yml",
-		"/Users/brunolima/Developer/Pintellect/pintellect/app/assets/javascripts/components/featured_post/show_post.js.jsx",
-		"/Users/brunolima/Developer/Ruby/CurseRubyI/tests.rb",
-		"/Users/brunolima/Developer/Curso de Logica II/obras_de_arte.html",
-		"/Users/brunolima/Developer/Curso de Logica II/acerta_alvo.html",
-		"/Users/brunolima/Developer/Curso de Logica II/move_bolinha_pelo_teclado.html",
-		"/Users/brunolima/Developer/Curso de Logica II/bandeira_brasileira.html",
-		"/Users/brunolima/Developer/Curso de Logica II/alvo_animado.html",
-		"/Users/brunolima/Developer/Curso de Logica II/o_pulso_ainda_pulsa.html",
-		"/Users/brunolima/Developer/Curso de Logica II/desenha_alvo.html",
-		"/Users/brunolima/Developer/Curso de Logica II/desenha_circulo.html",
-		"/Users/brunolima/Developer/Curso de Logica II/programa3.html",
-		"/Users/brunolima/Developer/Curso de Logica II/programa2.html"
+		"/C/Users/bplima/Desktop/git-push.html",
+		"/C/Users/bplima/Documents/MyGit/Pintellect/chrome-extension/popup.html",
+		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-push.html",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/app.component.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/styles.css",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/index.html",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/dashboard.component.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/hero-detail.component.css",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/app.component.css",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/hero-detail.component.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/dashboard.component.html",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/hero.service.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/app.module.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/heroes.component.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/heroes.component.html",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/app-routing.module.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/heroes.component.css",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/mock-heroes.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/angular-tour-of-heroes/src/app/hero.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/quickstart/.gitignore",
+		"/C/Users/bplima/Documents/Desenvolvimento/Eclipse/spring/.gitignore",
+		"/C/Users/bplima/Documents/Desenvolvimento/Eclipse/spring/gesta-festa/.mvn/wrapper/maven-wrapper.properties",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/README.md",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/dist/index.html",
+		"/C/Users/bplima/Documents/Ambiente de Desenvolvimento/apache-tomcat-9/webapps/dist/index.html",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/.gitignore",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/src/app/app.component.html",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/src/app/app.component.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/src/index.html",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/src/app/app.component.css",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/src/app/app.module.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/e2e/app.e2e-spec.ts",
+		"/C/Users/bplima/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/e2e/app.po.ts",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/my-firstapp/e2e/tsconfig.e2e.json",
+		"/C/Users/bplima/AppData/Roaming/Sublime Text 3/Packages/User/AngularJS-sublime-package.sublime-settings",
+		"/C/Users/bplima/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/bplima/Desktop/TODO.txt",
+		"/C/Users/bplima/Documents/Projetos/Cielo - e-Commerce/Duvidas Cielo e-Commerce",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/portal_aluno/portal_aluno/secure/modulo/boleto-rematricula/boleto-remat.xhtml",
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/standalone/log/server.log",
+		"/C/Users/bplima/Documents/Projetos/Cielo - e-Commerce/api-3.0-java/API-3.0-Java-master/api30.sdk/src/main/java/cieloecommerce/sdk/ecommerce/request/UpdateSaleRequest.java",
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/standalone/deployments/alunos.war/www/modulos/acordo/acordo.js",
+		"/C/Users/bplima/Downloads/Package Control.sublime-package",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/index",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/refs/heads/master",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/refs/remotes/origin/HEAD",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/description",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/config",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/HEAD",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/packed-refs",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/objects/pack/pack-16a1d11bd2b04231841327c293a6898c8d6a27df.idx",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/logs/refs/heads/master",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/logs/refs/remotes/origin/HEAD",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/objects/pack/pack-16a1d11bd2b04231841327c293a6898c8d6a27df.pack",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/info/exclude",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/pre-commit.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/pre-push.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/prepare-commit-msg.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/pre-rebase.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/pre-receive.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/update.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/applypatch-msg.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/post-update.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/pre-applypatch.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/.git/hooks/commit-msg.sample",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/AngularJS/alurapic/public/js/controllers/fotos-controller.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/AngularJS/alurapic/app/api/index.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/AngularJS/alurapic/app/routes/index.js",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/acd-contr-vag/pom.xml",
+		"/C/Users/bplima/Documents/Projetos/Cielo - e-Commerce/Analise API Cielo e-Commerce",
+		"/C/Users/bplima/Documents/Projetos/Cielo - e-Commerce/api-3.0-java/API-3.0-Java-master/api30.sdk/src/main/java/cieloecommerce/sdk/ecommerce/request/DeactivateRecurrentSaleRequest.java",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/placar.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/selectize.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/tooltipster.bundle.min.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/frase.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/main.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/jquery.js",
+		"/C/Users/bplima/Documents/MyGit/ProjetosAlura/Javascript/JQuery/alura-typer/public/js/slider.js",
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/standalone/configuration/standalone-full.xml",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/cruzeirodosul-models/cruzeirodosul-models/src/br/edu/cruzeirodosul/models/academico/retencaoregresso/Motivos.java",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/cruzeirodosul-models/cruzeirodosul-models/src/br/edu/cruzeirodosul/models/academico/retencaoregresso/CampanhaRetencao.java",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/academico-services/academico-services/src/br/edu/cruzeirodosul/services/reservalaboratorios/queries/MotivosIndeferimentoQueries.java",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/commons-util/commons-util/src/br/edu/cruzeirodosul/util/commons/mail/model/EmailModel.java",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/commons-util/commons-util/src/br/edu/cruzeirodosul/util/commons/mail/Email.java",
+		"/C/Users/bplima/Documents/Desenvolvimento/NetbeansProjectsWildFly/cielo/nbproject/private/private.properties",
+		"/C/Users/bplima/Documents/Desenvolvimento/NetbeansProjectsWildFly/cielo/nbproject/ant-deploy.xml",
+		"/C/Users/bplima/Documents/Desenvolvimento/NetbeansProjectsWildFly/cielo/build.xml",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/financeiro-services/financeiro-services/build/classes/sql-cb.properties",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/financeiro-services/financeiro-services/build/classes/sql-ead.properties",
+		"/C/Users/bplima/.ssh/id_rsa.pub",
+		"/C/Users/bplima/.ssh/git.pub",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/financeiro-services/financeiro-services/build/classes/sql-bol.properties",
+		"/C/Users/bplima/Documents/Redmine/Wiki - Preparação do Ambiente de Desenvolvimento",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/academico-services/academico-services/build-bplima.properties",
+		"/C/Users/bplima/Desktop/Wiki - Preparação do Ambiente de Desenvolvimento",
+		"//NAS/Desenvolvimento/Tools/build-nomeUsuario.properties",
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/modules/br/edu/cruzeirodosul/tomcat7/main/module.xml",
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/modules/oracle/jdbc/main/module.xml",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/filemanagerutil/FileManagerUtil/build.xml",
+		"/C/Users/bplima/Documents/Desenvolvimento/NetbeansProjectsWildFly/novo-siaa/build.xml",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/filemanagerutil/FileManagerUtil/build-jenkins.properties",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/filemanagerutil/FileManagerUtil/build-tomcat7.properties",
+		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/filemanagerutil/FileManagerUtil/javadoc.xml",
+		"/C/Program Files/NetBeans 8.2/etc/netbeans.conf",
+		"/C/Users/bplima/Desktop/build-bplima.properties",
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/bin/standalone.bat",
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/js/codebase/dhtmlxdataprocessor.js",
+		"/C/Users/bplima/.ssh/id_rsa"
 	],
 	"find":
 	{
@@ -639,11 +222,9 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
-			"/Users/brunolima/Developer/Git/ProjetosAlura/Javascript/React",
-			"/Users/brunolima/Developer/Pintellect/pintellect"
 		]
 	},
 	"find_state":
@@ -651,61 +232,28 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"TratadorErros",
-			"{\n",
-			"index.html",
-			"recuperado",
-			"td",
-			"(){\n",
-			"10",
-			"n„o",
-			"alteraÁıes",
-			"repositÛrio",
-			"ebook_que_mais_vendeu_por",
-			"to_csv",
-			"tru",
-			"calcula_nova_posicao",
-			"hang",
-			"won",
-			"lot_number_secret",
-			"check_if_you_got_it_right",
-			"welcome",
-			"*rtm.connect*",
-			"rtm.connect",
-			"showAnnotationTextBox",
-			"Hit enter to save your note",
-			"hook",
-			"hooks",
-			"webhooks",
-			"create_from_profile.json",
-			"red",
-			">",
-			"for",
-			" (",
-			");\n",
-			"lightgray",
-			"300",
-			"280",
-			"260",
-			"350",
-			"280",
-			"();\n",
-			"choose_secret_word",
-			"chutes",
-			"numero_secreto",
-			"dificuldade",
-			"nome",
-			"joga",
-			"ganhou",
-			"check_if_you_got_it_right",
-			"verifica_se_acertou",
-			"pede_dificuldade",
-			"ask_for_a_number",
-			"limite_de_tentativas",
-			"pede_um_numero",
-			"sorteia_numero_secreto",
-			"da_boas_vindas",
-			" \""
+			"HeroDetailComponent",
+			"console",
+			"tipoEnvio",
+			"anexo",
+			"anex",
+			"anexp",
+			"aenxo",
+			"sendMessage",
+			"cielo",
+			"cieloServerUrl",
+			"cielo",
+			"checkout",
+			"env",
+			"java",
+			"module",
+			"cielo",
+			"br.edu.cruzeirodosul.tomcat7",
+			"FileManager",
+			"SiaaPoolBean",
+			"set \"JAVA_OPTS=",
+			"set \"JAVA_OPTS=-Xms64M -Xmx512M -XX:MaxPermSize=1024M\" ",
+			"netbeans_default_options=\"-J-client -J-Xss2m "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -713,21 +261,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"não",
-			"alteracoes",
-			"repositorio",
-			"kicks",
-			"secret_number",
-			"difficulty",
-			"name",
-			"play",
-			"won",
-			"check_if_you_got_it_right",
-			"asks_for_trouble",
-			"limit_of_attempts",
-			"ask_for_a_number",
-			"lot_number_secret",
-			"welcome"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -738,20 +271,60 @@
 	"folders":
 	[
 		{
-			"path": "/Users/brunolima/Developer/Git/angular"
+			"path": "C:\\Users\\bplima\\Documents\\Desenvolvimento\\Angular\\angular\\my-firstapp"
+		},
+		{
+			"path": "C:\\Users\\bplima\\Documents\\Desenvolvimento\\Angular\\angular\\angular-tour-of-heroes"
+		},
+		{
+			"path": "C:\\Users\\bplima\\Documents\\Desenvolvimento\\Angular\\angular\\toh-pt5"
 		}
 	],
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "my-firstapp/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1268,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1268,
+								1268
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 21.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -780,17 +353,9 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 100.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
-	},
-	"output.unsaved_changes":
-	{
-		"height": 100.0
 	},
 	"pinned_build_system": "",
 	"project": "",
@@ -805,73 +370,17 @@
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"bundle.js",
-				"React/cdc-admin/node_modules/webpack-dev-server/client/index.bundle.js"
-			],
-			[
-				"form",
-				"introducao-javascript/js/form.js"
-			],
-			[
-				"produto",
-				"lojadecamisetas/app/controllers/produtos_controller.rb"
-			],
-			[
-				"rou",
-				"lojadecamisetas/config/routes.rb"
-			],
-			[
-				"prod",
-				"lojadecamisetas/app/controllers/produtos_controller.rb"
-			],
-			[
-				"produ",
-				"lojadecamisetas/app/controllers/produtos_controller.rb"
-			],
-			[
-				"produtos",
-				"lojadecamisetas/app/controllers/produtos_controller.rb"
-			],
-			[
-				"index.html.er",
-				"lojadecamisetas/app/views/produtos/index.html.erb"
-			],
-			[
-				"route",
-				"lojadecamisetas/config/routes.rb"
-			],
-			[
-				".e",
-				"pintellect/.env"
-			],
-			[
-				"server.rb",
-				"pintellect/lib/slack_bot_server/server.rb"
-			],
-			[
-				"gem",
-				"pintellect/Gemfile.lock"
-			],
-			[
-				"gemlo",
-				"pintellect/Gemfile.lock"
-			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 0.0,
 		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"",
-				"~/Developer/Ruby/CursoRubyI/maior_ou_menor.sublime-workspace"
-			]
 		],
-		"width": 380.0
+		"width": 0.0
 	},
 	"select_symbol":
 	{
@@ -887,10 +396,10 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": true,
+	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 277.0,
+	"side_bar_width": 303.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
