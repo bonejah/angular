@@ -15,8 +15,8 @@ https://babeljs.io
 - DI (Dependency Injection)
 
 Pre-requires
-- Install NodeJs
-- Install sudo npm install -g @angular/cli
+- Install NodeJs: node -v
+- Install sudo npm install -g @angular/cli (Requires node >= 4)
 ng -v
 - Install sudo npm install -g typescript
 
@@ -29,7 +29,6 @@ If you have problems to up server, follow the steps below:
 - npm cache clean (doesnt not work in npm v5)
 - npm install
 
-
 Text Editor
 - Visual Code
 - WebStorm
@@ -38,10 +37,42 @@ Text Editor
 
 Commands Angular
 Create a new project: ng new <name-of-project>
+- Using pre-processor for a new project:
+    ng new <name-of-project> --style=sass
+    ng new <name-of-project> --style=less
+    ng new <name-of-project> --style=stylus
+- Using pre-processor for a existing project
+    ng set defaults.styleExt scss
+    ng set defaults.styleExt less
+    ng set defaults.styleExt styl    
+
+ng lint: Scann your code for search bugs
+ng test: Using Jasmine for test in your app
+ng e2e: Using for integration tests.
+
+BUILD DEV:
+ng build --target=development --enviroment=dev
+ng build --dev --e=dev
+ng build --dev
+ng build
+
+BUILD PRD:
+ng build --target=production --enviroment=prod
+ng build --prod --e=prod
+ng build --prod
+
+Install server NodeJs
+npm install http-server -g
+
 Up app on server: ng serve
-Create a new component: ng g component <name-component> / ng g c <name-component>
-Create a new module: ng g module <name-module> / ng g m <name-module>
-Create a new service: ng g service <name-service> / ng g s <name-service>
+Create a new component: ng generate component <name-component> / ng g c <name-component>
+Create a new module: ng generate module <name-module> / ng g m <name-module>
+Create a new service: ng generate service <name-service> / ng g s <name-service>
+Create a new directive: ng generate directive <name-directive> / ng g d <name-directive>
+Create a new pipe: ng generate pipe <name-pipe> / ng g p <name-pipe>
+Create a new class: ng generate class <name-class> / ng g c <name-class>
+Create a new interface: ng generate interface <name-interface> / ng g i <name-interface>
+Create a new enum: ng generate enum <name-enum> / ng g e <name-enum>
 Compile a file typescript: tsc main.ts
 
 Plugins Text Editor (Atom)
