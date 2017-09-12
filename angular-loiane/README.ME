@@ -91,8 +91,43 @@ Plugins Text Editor (Atom)
  - Ionic 2 commands
  - vscode-icons
  
-
+====================================================================================================
  Bootstrap
- - ng2-bootstrap
+ To install: npm install --save bootstrap@next
+ Open file .angular-cli.json and input the code below on tag scripts:
+      "styles": [
+        "styles.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.css"
+       ],
+      "scripts": [
+        "../node_modules/jquery/dist/jquery.js",
+        "../node_modules/tether/dist/js/tether.js",
+        "../node_modules/bootstrap/dist/css/bootstrap.min.js"
+      ],
+
+Materialize
+To install: 
+    npm install materialize-css --save
+    npm install angular2-materialize --save
+
+    Import the code below to your app.module.ts
+    import { MaterializeModule } from 'angular2-materialize';
+
+JQuery
+To install:
+    npm install jquery@^2.2.4 --save
+
+Lodash
+To install:
+    npm install --save lodash
+    npm install --save @types/lodash
+
+
+
+
+
+
+
+
 
 
