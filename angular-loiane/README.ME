@@ -94,7 +94,8 @@ Plugins Text Editor (Atom)
 ====================================================================================================
  Bootstrap
  To install: 
-npm install --save bootstrap@next
+npm install bootstrap@next --save 
+npm install ngx-bootstrap --save
 npm install popper.js --save
 
  open src/app/app.module.ts and add
@@ -118,6 +119,12 @@ npm install popper.js --save
         "../node_modules/popper.js/dist/umd/popper.js",
         "../node_modules/bootstrap/dist/js/bootstrap.js"
       ],
+
+Add the code below on file index.html
+<!-- index.html -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+
 Materialize
 To install: 
     npm install materialize-css --save
