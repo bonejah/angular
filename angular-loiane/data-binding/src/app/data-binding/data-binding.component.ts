@@ -6,8 +6,7 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './data-binding.component.html',
   //styleUrls: ['./data-binding.component.css']
   styles: [
-    `
-      .highlight {
+    ` .highlight {
         background-color: yellow;
         font-weight: bold;
       }

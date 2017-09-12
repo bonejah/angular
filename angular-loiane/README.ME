@@ -93,18 +93,31 @@ Plugins Text Editor (Atom)
  
 ====================================================================================================
  Bootstrap
- To install: npm install --save bootstrap@next
+ To install: 
+npm install --save bootstrap@next
+npm install popper.js --save
+
+ open src/app/app.module.ts and add
+    import { AlertModule } from 'ngx-bootstrap';
+    ...
+
+    @NgModule({
+    ...
+    imports: [AlertModule.forRoot(), ... ],
+        ... 
+    })   
+
  Open file .angular-cli.json and input the code below on tag scripts:
-      "styles": [
-        "styles.css",
-        "../node_modules/bootstrap/dist/css/bootstrap.css"
+    "styles": [
+        "../node_modules/bootstrap/dist/css/bootstrap.css",
+        "styles.css"
        ],
       "scripts": [
         "../node_modules/jquery/dist/jquery.js",
-        "../node_modules/tether/dist/js/tether.js",
-        "../node_modules/bootstrap/dist/css/bootstrap.min.js"
+        "../node_modules/tether/dist/tether.js",
+        "../node_modules/popper.js/dist/umd/popper.js",
+        "../node_modules/bootstrap/dist/js/bootstrap.js"
       ],
-
 Materialize
 To install: 
     npm install materialize-css --save
@@ -115,7 +128,9 @@ To install:
 
 JQuery
 To install:
-    npm install jquery@^2.2.4 --save
+    npm install jquery --save 
+    Add script below oin file index.html
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 
 Lodash
 To install:
