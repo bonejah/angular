@@ -17,5 +17,4 @@ export class DiretivaNgifComponent implements OnInit {
   onMostrarCursos() {
     this.mostrarCursos = !this.mostrarCursos;
   }
-
 }
