@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "project": {
-    "name": "integrador-cielo"
+    "name": "patrimonio-ui"
   },
   "apps": [
     {
@@ -9,7 +9,6 @@
       "outDir": "dist",
       "assets": [
         "assets",
-        "images",
         "favicon.ico"
       ],
       "index": "index.html",
@@ -20,10 +19,11 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "styles.css",
-        "../node_modules/bootstrap/dist/css/bootstrap.min.css"
+        "../node_modules/font-awesome/css/font-awesome.min.css",
+        "../node_modules/primeng/resources/primeng.min.css",
+        "../node_modules/primeng/resources/themes/omega/theme.css",
+        "styles.css"
       ],
-      
       "scripts": [],
       "environmentSource": "environments/environment.ts",
       "environments": {

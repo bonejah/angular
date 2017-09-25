@@ -24,11 +24,10 @@
 	"buffers":
 	[
 		{
-			"file": "my-firstapp/README.md",
+			"file": "/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/bin/standalone.conf",
 			"settings":
 			{
-				"buffer_size": 1268,
-				"encoding": "UTF-8",
+				"buffer_size": 2315,
 				"line_ending": "Unix"
 			}
 		}
@@ -106,6 +105,11 @@
 	],
 	"file_history":
 	[
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/bin/add-user.properties",
+		"/C/Users/bplima/Documents/Course English/Will + going to + present continuous for future exercise 3 .txt",
+		"/C/Users/bplima/Documents/Course English/Will + going to + present continuous for future exercise 1.txt",
+		"/C/Users/bplima/Documents/Course English/Will + going to + present continuous for future exercise 2 .txt",
+		"/C/Users/bplima/Documents/Desenvolvimento/Angular/angular/my-firstapp/README.md",
 		"/C/Users/bplima/Desktop/git-push.html",
 		"/C/Users/bplima/Documents/MyGit/Pintellect/chrome-extension/popup.html",
 		"/C/Program Files/Git/mingw64/share/doc/git-doc/git-push.html",
@@ -288,32 +292,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "my-firstapp/README.md",
+					"file": "/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/bin/standalone.conf",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1268,
+						"buffer_size": 2315,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1268,
-								1268
+								676,
+								676
 							]
 						],
 						"settings":
 						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": false
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 210.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

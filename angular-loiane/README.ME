@@ -94,24 +94,21 @@ Plugins Text Editor (Atom)
 ====================================================================================================
  Bootstrap
  To install: 
-npm install bootstrap@next --save 
-npm install ngx-bootstrap --save
-npm install popper.js --save
+ npm install ngx-bootstrap bootstrap --save
 
  open src/app/app.module.ts and add
     import { AlertModule } from 'ngx-bootstrap';
     ...
-
     @NgModule({
     ...
     imports: [AlertModule.forRoot(), ... ],
-        ... 
-    })   
+    ... 
+    }) 
 
  Open file .angular-cli.json and input the code below on tag scripts:
     "styles": [
-        "../node_modules/bootstrap/dist/css/bootstrap.css",
-        "styles.css"
+        "styles.css",
+        "../node_modules/bootstrap/dist/css/bootstrap.min.css"
        ],
       "scripts": [
         "../node_modules/jquery/dist/jquery.js",
