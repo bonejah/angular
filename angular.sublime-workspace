@@ -27,7 +27,7 @@
 			"file": "/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/bin/standalone.conf",
 			"settings":
 			{
-				"buffer_size": 2315,
+				"buffer_size": 2314,
 				"line_ending": "Unix"
 			}
 		}
@@ -105,6 +105,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/standalone/log/server.log",
 		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/bin/add-user.properties",
 		"/C/Users/bplima/Documents/Course English/Will + going to + present continuous for future exercise 3 .txt",
 		"/C/Users/bplima/Documents/Course English/Will + going to + present continuous for future exercise 1.txt",
@@ -150,7 +151,6 @@
 		"/C/Users/bplima/Desktop/TODO.txt",
 		"/C/Users/bplima/Documents/Projetos/Cielo - e-Commerce/Duvidas Cielo e-Commerce",
 		"/C/Users/bplima/Documents/Desenvolvimento/Workspace/portal_aluno/portal_aluno/secure/modulo/boleto-rematricula/boleto-remat.xhtml",
-		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/standalone/log/server.log",
 		"/C/Users/bplima/Documents/Projetos/Cielo - e-Commerce/api-3.0-java/API-3.0-Java-master/api30.sdk/src/main/java/cieloecommerce/sdk/ecommerce/request/UpdateSaleRequest.java",
 		"/C/Users/bplima/Documents/Desenvolvimento/Servidores/wildfly-8.2.1.Final_unix/standalone/deployments/alunos.war/www/modulos/acordo/acordo.js",
 		"/C/Users/bplima/Downloads/Package Control.sublime-package",
@@ -296,15 +296,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2315,
+						"buffer_size": 2314,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								676,
-								676
+								0,
+								0
 							]
 						],
 						"settings":

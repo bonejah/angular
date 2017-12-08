@@ -1,6 +1,10 @@
 # Pipes
 
+<<<<<<< HEAD
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
+=======
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+>>>>>>> 352f0231bca11c0db0e37ff0e24595509647438b
 
 ## Development server
 
