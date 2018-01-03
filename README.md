@@ -1,1 +1,1 @@
-# This repository contains projects usign Angular
+# This repository contains projects using Angular
