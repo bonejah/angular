@@ -86,3 +86,13 @@ Diretiva de atributos: modificam a aparência, comportamento ou conteúdo do ele
 
 ```
 
+## INPUT() Property
+```
+Serve para passar o valor do componente pai para o componente filho
+```
+
+
+## OUTPUT() Property
+```
+Serve para passar o valor do componente filho para o componente pai em conjunto com um evento @EventEmitter()
+```
