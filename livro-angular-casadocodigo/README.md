@@ -22,7 +22,7 @@ tsc -v: verifica a versão instalada
 
 ## Angular CLI
 ```
-npm install -g angular-cli: para instalar o Angular CLI globalmente
+npm install -g @angular/cli: para instalar o Angular CLI globalmente
 
 ng new nome-do-projeto: cria um novo projeto
 ng init: faz a mesma coisa que o ng new porém não cria a nova pasta

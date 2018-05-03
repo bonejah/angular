@@ -1,20 +1,20 @@
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { InputOutputComponent } from './input-output.component';
+import { InpOutComponent } from './inp-out.component';
 
-describe('InputOutputComponent', () => {
-  let component: InputOutputComponent;
-  let fixture: ComponentFixture<InputOutputComponent>;
+describe('InpOutComponent', () => {
+  let component: InpOutComponent;
+  let fixture: ComponentFixture<InpOutComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ InputOutputComponent ]
+      declarations: [ InpOutComponent ]
     })
     .compileComponents();
   }));
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(InputOutputComponent);
+    fixture = TestBed.createComponent(InpOutComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
