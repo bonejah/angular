@@ -96,3 +96,15 @@ Serve para passar o valor do componente pai para o componente filho
 ```
 Serve para passar o valor do componente filho para o componente pai em conjunto com um evento @EventEmitter()
 ```
+
+## BUILD PRODUCAO
+
+```
+ng build --target=production --environment=prod
+ng build --prod --env=prod
+ng build --prod
+será criada a pasta dist
+
+npm install http-server -g
+dentro da pasta dist digite no console http-server
+```

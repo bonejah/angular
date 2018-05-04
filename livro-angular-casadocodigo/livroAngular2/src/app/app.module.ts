@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
-
 import { AppComponent } from './app.component';
 import { ListaPessoaComponent } from './lista-pessoa/lista-pessoa.component';
 import { AlertaService } from './alerta.service';
@@ -17,8 +16,9 @@ import { NgClassComponent } from './ng-class/ng-class.component';
 import { NgStyleComponent } from './ng-style/ng-style.component';
 import { NgContentComponent } from './ng-content/ng-content.component';
 import { EventBindingComponent } from './event-binding/event-binding.component';
-import { InputOutputComponent } from './input-output/input-output.component';
 import { InpOutComponent } from './inp-out/inp-out.component';
+import { FormularioComponent } from './formulario/formulario.component';
+import { DiComponent } from './di/di.component';
 
 
 @NgModule({
@@ -35,8 +35,9 @@ import { InpOutComponent } from './inp-out/inp-out.component';
     NgStyleComponent,
     NgContentComponent,
     EventBindingComponent,
-    InputOutputComponent,
-    InpOutComponent
+    InpOutComponent,
+    FormularioComponent,
+    DiComponent
   ],
   imports: [
     BrowserModule,

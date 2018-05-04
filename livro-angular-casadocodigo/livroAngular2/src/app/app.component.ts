@@ -18,7 +18,7 @@ export class AppComponent {
     this.service.msgAlerta();
   }
 
-  valorPassado(valorPassado){
+  valorPassado(valorPassado) {
     this.valor = valorPassado;
   }
 }
