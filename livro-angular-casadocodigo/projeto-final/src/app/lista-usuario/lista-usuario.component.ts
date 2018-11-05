@@ -19,5 +19,6 @@ export class ListaUsuarioComponent implements OnInit {
 
   contatoClicado(item: number) {
     this.idClicado.emit(item);
+    console.log(this.idClicado);
   }
 }

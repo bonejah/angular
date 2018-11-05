@@ -15,6 +15,7 @@ export class AppComponent {
   constructor(private dataBaseService: ContatosDataBase){}
 
   enviarDetalhe(id): void {
+    console.log(id);
     this.contatoclicado = this.dataBaseService.getContato(id);
   }
 }

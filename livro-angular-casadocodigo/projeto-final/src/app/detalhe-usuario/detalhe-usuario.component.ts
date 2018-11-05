@@ -12,6 +12,7 @@ export class DetalheUsuarioComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log(this.contato);
   }
 
 }
