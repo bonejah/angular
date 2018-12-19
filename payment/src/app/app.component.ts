@@ -1,6 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Directive } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { reject } from 'q';
+import { OnlyNumberDirective } from './only-number.directive';
 
 @Component({
   selector: 'payment-form',
@@ -11,6 +12,8 @@ export class AppComponent implements OnInit {
   paymentForm: FormGroup;
   displayMessage: string;
   isPageReady: boolean = false;
+  onlyNumber: OnlyNumberDirective;
+
   // namePattern: "^[a-zA-Z]+$";
   namePattern: "/^[a-zA-Z]+$/";
 
