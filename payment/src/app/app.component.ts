@@ -12,9 +12,6 @@ export class AppComponent implements OnInit {
   paymentForm: FormGroup;
   displayMessage: string;
   isPageReady: boolean = false;
-  onlyNumber: OnlyNumberDirective;
-
-  // namePattern: "^[a-zA-Z]+$";
   namePattern: "/^[a-zA-Z]+$/";
 
   constructor(
@@ -24,7 +21,6 @@ export class AppComponent implements OnInit {
   ngOnInit() {
     this.initForm();
   }
-
 
   initForm() {
     return new Promise((resolve, reject) => {
@@ -52,6 +48,15 @@ export class AppComponent implements OnInit {
     
     this.displayMessage = "Payment Successful!";
     return this.paymentForm.valid;
+  }
+
+  numberOnly(event): boolean {
+    const charCode = (event.which) ? event.which : event.keyCode;
+    if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+      return false;
+    }
+
+    return true;
   }
 
 }
