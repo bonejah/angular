@@ -1,7 +1,5 @@
-import { Component, OnInit, Directive } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
-import { reject } from 'q';
-import { OnlyNumberDirective } from './only-number.directive';
 
 @Component({
   selector: 'payment-form',
@@ -11,7 +9,6 @@ import { OnlyNumberDirective } from './only-number.directive';
 export class AppComponent implements OnInit {
   paymentForm: FormGroup;
   displayMessage: string;
-  isPageReady: boolean = false;
   namePattern: "/^[a-zA-Z]+$/";
 
   constructor(
@@ -23,26 +20,21 @@ export class AppComponent implements OnInit {
   }
 
   initForm() {
-    return new Promise((resolve, reject) => {
+    return new Promise((resolve) => {
       this.paymentForm = this.formBuilder.group({
-          NameCard: [null, Validators.compose([Validators.required, Validators.pattern('^[a-zA-Z \-\']+')])],
-          CardNumber: [null, Validators.compose([Validators.required, Validators.minLength(16), Validators.maxLength(16)])],
-          Month: null,
-          Year: null,
-          Cvv: null
+          nameOnCard: [null, Validators.compose([Validators.required, Validators.pattern('^[a-zA-Z \-\']+')])],
+          cardNumber: [null, Validators.compose([Validators.required, Validators.minLength(16), Validators.maxLength(16)])],
+          expirationMonth: [null, Validators.compose([Validators.minLength(2), Validators.maxLength(2)])],
+          expirationYear: [null, Validators.compose([Validators.minLength(4), Validators.maxLength(4)])],
+          cvv: null
       });
-
-      console.log('paymentForm', this.paymentForm)
       resolve();
-    })
-    .catch(() =>{
-      reject('Error......!!!!!');
     });
   }
 
   submitForm() {
     if (this.paymentForm.invalid) {
-      this.displayMessage = "Payment Failed!";  
+      this.displayMessage = "Payment Failed!";
       return false;
     }
     

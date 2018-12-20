@@ -1,3 +1,4 @@
+import { Component } from '@angular/core';
 import { TestBed, async } from '@angular/core/testing';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
@@ -21,16 +22,17 @@ describe('AppComponent', () => {
     }).compileComponents();
   }));
 
-
   it('form should be invalid when empty', () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
+    app.ngOnInit();
     expect(app.paymentForm.valid).toBeFalsy();
   });
 
   it('card number validation should work', async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
+    app.ngOnInit();
     app.paymentForm.controls['cardNumber'].setValue("1234123412345678");
     expect(app.paymentForm.controls['cardNumber'].valid).toBeTruthy();
   }));
@@ -38,7 +40,8 @@ describe('AppComponent', () => {
   it('expiration date validation should work', async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    app.paymentForm.controls['expirationMonth'].setValue("134");
+    app.ngOnInit();
+    app.paymentForm.controls['expirationMonth'].setValue("143");
     app.paymentForm.controls['expirationYear'].setValue("2017");
     expect(app.paymentForm.controls['expirationMonth'].valid).toBeFalsy();
     expect(app.paymentForm.controls['expirationYear'].valid).toBeTruthy();
@@ -47,6 +50,7 @@ describe('AppComponent', () => {
   it('cvv/cvc validation should work', async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
+    app.ngOnInit();
     app.paymentForm.controls['cvv'].setValue("677");
     expect(app.paymentForm.controls['cvv'].valid).toBeTruthy();
   }));
@@ -54,6 +58,7 @@ describe('AppComponent', () => {
   it('submit button should display the success message', async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
+    app.ngOnInit();
     app.paymentForm.controls['nameOnCard'].setValue("Mathew Jerome");
     app.paymentForm.controls['cardNumber'].setValue("3456234567854567");
     app.paymentForm.controls['expirationMonth'].setValue("11");
@@ -66,6 +71,7 @@ describe('AppComponent', () => {
   it('submit button should display the failure message', async(() => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
+    app.ngOnInit();
     app.paymentForm.controls['nameOnCard'].setValue("Mathew Jerome");
     app.paymentForm.controls['cardNumber'].setValue("345623456784567");
     app.paymentForm.controls['expirationMonth'].setValue("15");
@@ -74,4 +80,5 @@ describe('AppComponent', () => {
     app.submitForm();
     expect(app.displayMessage).toBe("Payment Failed!");
   }));
+
 });
